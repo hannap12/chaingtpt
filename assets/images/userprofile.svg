@@ -1,0 +1,19 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="20" cy="20" r="19.5" fill="#09090E" stroke="url(#paint0_angular_155_2806)"/>
+<g clip-path="url(#clip0_155_2806)">
+<ellipse cx="20.0006" cy="15.2091" rx="3.91755" ry="3.91755" fill="#EFEFE5"/>
+<path d="M15.3279 21.4158C15.814 20.9934 16.4362 20.7607 17.0802 20.7607H22.9182C23.5621 20.7607 24.1844 20.9934 24.6704 21.4158L26.6091 23.1008C27.3874 23.7772 27.8343 24.7577 27.8343 25.7888V27.8151C27.8343 28.3069 27.4356 28.7055 26.9439 28.7055H13.0544C12.5627 28.7055 12.1641 28.3069 12.1641 27.8151V25.7888C12.1641 24.7577 12.611 23.7772 13.3892 23.1008L15.3279 21.4158Z" fill="#EFEFE5"/>
+</g>
+<defs>
+<radialGradient id="paint0_angular_155_2806" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(20 14.7059) rotate(58.8494) scale(49.4887 31.0232)">
+<stop stop-color="#7350F2"/>
+<stop offset="0.332583" stop-color="#24F6D2"/>
+<stop offset="0.634676" stop-color="#F8D240"/>
+<stop offset="0.927083" stop-color="#FC665A"/>
+<stop offset="1" stop-color="#7350F2"/>
+</radialGradient>
+<clipPath id="clip0_155_2806">
+<rect width="22" height="22" fill="white" transform="translate(9 9)"/>
+</clipPath>
+</defs>
+</svg>
